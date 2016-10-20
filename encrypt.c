@@ -1,4 +1,3 @@
-
 // libraries to include
 #include <stdio.h>
 #include <stdlib.h>
@@ -185,3 +184,5 @@ int decimaltoHex(unsigned char string[], int stringLength, unsigned char hex[])
     hex[stringLength * 2] = '\0';
     return 1;
 }
+
+// o hey!
