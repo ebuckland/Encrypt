@@ -1,4 +1,3 @@
-// CipherSaber Encryption using RC4 by Eric Buckland
 
 // libraries to include
 #include <stdio.h>
